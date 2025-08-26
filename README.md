@@ -67,7 +67,9 @@ Logout → User can log out anytime, ending the session.
 Protected Routes → Certain pages (like Dashboard) are accessible only after login.
 
 📸 Screenshots
-
+![Image](https://github.com/user-attachments/assets/ee7c9daf-f9e1-401d-be97-cd6a402a7775)
+![Image](https://github.com/user-attachments/assets/c71e6997-94b9-46f7-8c47-81957ff69b1b)
+![Image](https://github.com/user-attachments/assets/1fa61edf-fbba-47d8-9632-693ef02be7fa)
 📜 License
 
 This project is for educational purposes as part of the Prodigy Infotech Internship.
