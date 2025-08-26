@@ -1,7 +1,8 @@
 🛡️ Secure User Authentication - Django
+---------------------------------------
 This project is developed as part of Prodigy Infotech Internship - Task 01.
 The goal is to implement a secure user authentication system with login, signup, and logout functionality in Django.
-🚀 Features
+🚀 Features:
 ✅ User Registration (Sign Up)
 ✅ User Login (Sign In)
 ✅ User Logout
@@ -9,12 +10,12 @@ The goal is to implement a secure user authentication system with login, signup,
 ✅ Authentication-based Route Protection (only logged-in users can access certain pages)
 ✅ Session Management handled by Django
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Backend: Python, Django
 Frontend: HTML, CSS (Django Templates)
 Database: SQLite (default, can be replaced with MySQL/PostgreSQL)
 
-📂 Project Structure
+📂 Project Structure:
 SecureAuth/
 │── accounts/          # App containing authentication logic
 │   ├── migrations/
@@ -32,7 +33,7 @@ SecureAuth/
 
 ⚙️ Installation & Setup
 Clone the Repository
-git clone https://github.com/your-username/secure-auth-django.git
+git clone https://github.com/PROGIDY_FS_01/secure-auth-django.git
 cd secure-auth-django
 
 Create Virtual Environment
